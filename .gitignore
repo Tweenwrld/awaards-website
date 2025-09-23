@@ -11,9 +11,7 @@ node_modules
 dist
 .marscode
 dist-ssr
-audio
-img
-videos
+
 *.local
 pnpm-lock.yaml
 
