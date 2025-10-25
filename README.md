@@ -28,6 +28,7 @@
 ## ⚠️ Disclaimer
 
 All design credits go to **[Zentry](https://zentry.com/)**. This project is created purely for **educational purposes** and is not intended for commercial use or public deployment.
+Live link **[awwards-website](https://awaards-website-blond.vercel.app/)**
 
 
 ## <a name="introduction">🤖 Introduction</a>
